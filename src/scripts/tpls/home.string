@@ -1,0 +1,60 @@
+<div class="m-home">
+	<header class="header">
+		<ul>
+			<li class="menu"><i class="yo-ico">&#xe745;</i></li>
+			<li>
+				<ul id="title">
+					<li class="active">热点</li>
+					<li>关注</li>
+				</ul>
+			</li>
+			<li class="sm"><i class="yo-ico">&#xe684;</i></li>
+		</ul>
+	</header>
+	<div class="home-section">
+	    <div class="swiper-container" id="swiper-container">
+			<div class="swiper-wrapper swip_wrap">
+			    <div class="swiper-slide swip_slid">
+			    	<nav> 
+						<ul id="nav">
+							<li class="active">足球生活</li>
+							<li>足球现场</li>
+							<li>足球美女</li>
+						</ul>
+					</nav>
+					
+					<div class="swiper-container" id="swiper-main">
+						<div class="swiper-wrapper swip_wrap">
+						    <div class="swiper-slide swip_slid">
+						    	<div class="section-content">
+								    <div class="home-scroll">
+								    	<ul>
+											<li>
+												<img src="images/img1.jpg">
+												<b>小丸子</b>
+											</li>
+											<li></li>
+											<li>
+												<img src="images/img2.jpg">
+												<b>小丸子</b>
+											</li>
+										</ul>
+								    </div>
+								</div>
+						    </div> 
+						    <div class="swiper-slide swip_slid">
+						    	足球现场~~~~~~~~~~~~~~~~~~~
+						    </div>
+						    <div class="swiper-slide swip_slid">
+						    	足球美女~~~~~~~~~~~~~~~
+						    </div>
+						</div>
+					</div>
+			    </div> 
+			    <div class="swiper-slide swip_slid">
+			    	关注~~~~~~~~~~~~~~~
+			    </div>
+			</div>
+		</div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+<div class="swiper-container" id="module">
+	<div class="swiper-wrapper swip_wrap">
+	    <div class="swiper-slide swip_slid">
+	    	<img src="images/slide1.png">
+	    </div> 
+	    <div class="swiper-slide swip_slid">
+	    	<img src="images/slide2.png">
+	    </div>
+	    <div class="swiper-slide swip_slid">
+	    	<img src="images/slide3.png">
+	    </div>
+	    <div class="swiper-slide swip_slid">
+	    	<img src="images/slide4.png">
+	    	<p action-type="go.index">开启</p>
+	    </div> 
+	</div>
+</div>

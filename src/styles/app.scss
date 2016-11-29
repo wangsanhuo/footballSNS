@@ -1,0 +1,11 @@
+@import "./lib/core/reset";
+@import "./usage/core/swiper-3.3.1.min.css";
+@import "./usage/core/common";
+@import "./usage/module/index";
+@import "./usage/module/home";
+@import "./usage/module/guide";
+html,body{
+	height:100%;
+	width:100%;
+	overflow:hidden;
+} 
